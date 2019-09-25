@@ -103,6 +103,9 @@ ENV/
 # PyCharm
 .idea
 
+# VsCode
+.vscode
+
 # Sphinx
 docs/_build/
 
